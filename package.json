@@ -1,6 +1,7 @@
 {
   "name": "parser-api",
   "version": "0.0.1",
+  "type": "module",
   "author": "Postlight",
   "description": "The serverless Postlight Parser API",
   "main": "src/handler.js",
